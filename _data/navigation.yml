@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://agusnolasco.github.io/files/agustin-nolasco-academic-cv.pdf
     
   - title: "Guide"
     url: /markdown/
