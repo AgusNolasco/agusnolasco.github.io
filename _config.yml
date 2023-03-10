@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Agustin Nolasco"
+title                    : "Agustín Nolasco"
 title_separator          : "-"
-name                     : &name "Agustin Nolasco"
-description              : &description "Computer Science Undergraduate Student"
+name                     : &name "Agustín Nolasco"
+description              : &description "Undergraduate Computer Science Student"
 url                      : https://agusnolasco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AgusNolasco/agusnolasco.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Agustin Nolasco"
+  name             : "Agustín Nolasco"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Rio Cuarto, Cordoba, Argentina"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sB0yPmMAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "nolasco@dc.exa.unrc.edu.ar"
+  researchgate     : "https://www.researchgate.net/profile/Agustin-Nolasco"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,17 +99,17 @@ author:
   github           : "AgusNolasco"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/agustin.nolasco/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
