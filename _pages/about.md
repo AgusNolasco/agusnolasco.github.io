@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-======
+=====
 My name is Franco Agustín Nolasco, I am a student of the Compute Science Licenciature at the National University of Río Cuarto. I currently collaborate in the research group [MFIS](https://mfis.dc.exa.unrc.edu.ar/).
 
 A data-driven personal website
