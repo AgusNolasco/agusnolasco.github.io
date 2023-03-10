@@ -10,6 +10,5 @@ My name is Franco Agustín Nolasco, I am a student of the Compute Science Licenc
 Now I am working on my thesis under the supervision of [Facundo Molina]() and [Nazareno Aguirre]().
 
 
-Example: editing a markdown file for a talk
 ![unrc](/images/unrc-logo.png)
 ![dc](/images/dc-logo.png)
