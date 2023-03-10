@@ -10,5 +10,4 @@ My name is Franco Agustín Nolasco, I am a student of the Compute Science Licenc
 Now I am working on my thesis under the supervision of [Facundo Molina]() and [Nazareno Aguirre]().
 
 
-<img src="/images/unrc-logo.png" width="230" height="300">
-![dc](/images/dc-logo.png)
+<img src="/images/unrc-logo.png" width="70" height="100"> <img src="/images/dc-logo.png" width="133" height="108">
