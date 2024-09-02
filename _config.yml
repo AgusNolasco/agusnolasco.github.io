@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Agustín Nolasco"
 title_separator          : "-"
 name                     : &name "Agustín Nolasco"
-description              : &description "Undergraduate Computer Science Student"
+description              : &description "Computer Science PhD. Student"
 url                      : https://agusnolasco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AgusNolasco/agusnolasco.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Agustín Nolasco"
   avatar           : "my-profile-image.jpg"
-  bio              : "Computer Science Student"
+  bio              : "Computer Science PhD. Student"
   location         : "Rio Cuarto, Cordoba, Argentina"
   employer         :
   pubmed           : 
