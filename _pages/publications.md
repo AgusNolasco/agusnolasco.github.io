@@ -10,18 +10,20 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.paperurl %}
-    <h2><a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a></h2>
-  {% else %}
-    <h2>{{ post.title }}</h2>
-  {% endif %}
 
-  <p>
-    {{ post.type }}<br>
-    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
-  </p>
+{% if post.paperurl %}
+<h2><a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a></h2>
+{% else %}
+<h2>{{ post.title }}</h2>
+{% endif %}
 
-  {{ post.content }}
+<p>
+{{ post.authors }}<br>
+<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+</p>
 
-  <hr>
+{{ post.content }}
+
+<hr>
+
 {% endfor %}
