@@ -6,7 +6,7 @@ author_profile: true
 
 About me
 ======
-I am a Ph.D. student in Computer Science at the Universidad Nacional de Córdoba (FaMAF) and a member of the MFIS research group at the Universidad Nacional de Río Cuarto. My research is advised by Nazareno Aguirre, with additional mentorship from Facundo Molina and Renzo Degiovanni.
+I am a Ph.D. student in Computer Science at the Universidad Nacional de Córdoba ([FAMAF](https://www.famaf.unc.edu.ar/)) and a member of the MFIS research group at the Universidad Nacional de Río Cuarto. My research is advised by [Nazareno Aguirre](https://nmaguirre.github.io/), with additional mentorship from [Facundo Molina](https://facumolina.github.io/) and [Renzo Degiovanni](https://rdegiovanni.github.io/).
 
 My work focuses on automated software testing, program analysis, and techniques for improving software reliability. In particular, I am interested in metamorphic testing, property-based testing, fuzzing, and specification inference.
 
