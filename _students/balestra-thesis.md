@@ -4,7 +4,7 @@ collection: students
 type: "Undergraduate Thesis – Advisor"
 permalink: /students/balestra
 venue: "Universidad Nacional de Río Cuarto"
-date: 2025-01-01
+date: 2026-02-19
 location: "Argentina"
 ---
 
