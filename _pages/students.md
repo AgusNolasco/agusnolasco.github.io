@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Students"
 permalink: /students/
 author_profile: true
