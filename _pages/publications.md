@@ -10,7 +10,11 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <h2>{{ post.title }}</h2>
+  {% if post.paperurl %}
+    <h2><a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a></h2>
+  {% else %}
+    <h2>{{ post.title }}</h2>
+  {% endif %}
 
   <p>
     {{ post.type }}<br>
