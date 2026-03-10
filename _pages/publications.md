@@ -9,7 +9,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 {% include base_path %}
 
-{% for post in site.students reversed %}
+{% for post in site.publications reversed %}
   <h2>{{ post.title }}</h2>
 
   <p>
