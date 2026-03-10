@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Students"
 permalink: /students/
 author_profile: true
@@ -8,5 +8,14 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.students reversed %}
-  {% include archive-single.html %}
+  <h2>{{ post.title }}</h2>
+
+  <p>
+    {{ post.type }}<br>
+    <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+  </p>
+
+  {{ post.content }}
+
+  <hr>
 {% endfor %}
