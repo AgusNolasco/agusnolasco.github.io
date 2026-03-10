@@ -8,4 +8,6 @@ date: 2025-04-30
 location: "Río Cuarto, Argentina"
 ---
 
-Co-advisor of an undergraduate thesis by **Augusto Fungo** on **object generation techniques for property-based testing**. The thesis was successfully defended and led to the student's graduation.
+Co-advisor of an undergraduate thesis by **Augusto Fungo** on **object generation techniques for property-based testing**. 
+
+The thesis was successfully defended and led to the student's graduation.
